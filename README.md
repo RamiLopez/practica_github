@@ -6,4 +6,3 @@ ELIAS MERCADO
 Romina Olivera
 ramaRomina
 Franco Di Laudo
-Franco Di Laudo 2
